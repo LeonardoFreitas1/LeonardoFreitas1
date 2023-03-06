@@ -1,7 +1,7 @@
 ### Hi! Welcome to my profile 🌾
 
 - 🔭 Working with back-end technologies
-- 🌱 Learning about spring/spring cloud
+- 🌱 Skills in Java, Spring, Docker and Kubernets 
 - 🍁 Adventuring in go language
 
 <div align="center">
